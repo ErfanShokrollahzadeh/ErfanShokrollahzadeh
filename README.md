@@ -14,8 +14,9 @@ abilities, I can help you unlock your full potential and achieve success in
 <div align="center">
   <img width=55% src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
-<br> 
+<hr>
 👋 Ways of communication with me :
+<br><br>
 <p align="center">
 <a href="https://twitter.com/erfan_shokr" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -36,6 +37,7 @@ abilities, I can help you unlock your full potential and achieve success in
   <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
  </a>
   <br />
+  <hr>
 
 # Hello, world! 👋
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat&logo=github)](https://github.com/ErfanShokrollahzadeh)
