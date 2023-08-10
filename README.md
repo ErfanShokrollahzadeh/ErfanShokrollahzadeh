@@ -14,8 +14,28 @@ abilities, I can help you unlock your full potential and achieve success in
 <div align="center">
   <img width=55% src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
-  
 <br> 
+👋 Ways of communication with me :
+<p align="center">
+<a href="https://twitter.com/erfan_shokr" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://www.linkedin.com/in/erfan-shokrollahzadeh-babb95216/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
+  <a href="https://t.me/ERFANsorena80" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+ </a>
+ <a href="mailto:erfan.shokr300@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Mail-yellowgreen?style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>
+  <a href="https://discordapp.com/users/⚡Erfan⚡#2239" target="_blank">
+  <img src="https://img.shields.io/badge/-DISCORD-blueviolet?style=for-the-badge&logo=discord&logoColor=white" />
+ </a>
+  <a href="https://www.instagram.com/in/erfan-shokrollahzadeh-babb95216/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+ </a>
+  <br />
 
 # Hello, world! 👋
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat&logo=github)](https://github.com/ErfanShokrollahzadeh)
@@ -32,7 +52,7 @@ abilities, I can help you unlock your full potential and achieve success in
 - 📲 Fluent in iOS and Mac system
 - 🎥 Watching the movie is one of my hobbies that I love so much.
 - 
-<br>
+<br><br>
 
 ## 🛠️ Languages & Tools
 #### 📋Languages :
@@ -253,7 +273,7 @@ abilities, I can help you unlock your full potential and achieve success in
 ![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)
 <br><br>
 
-## ⚙️ GitHub Analytics :
+## 📊 GitHub Analytics :
 <p align="center">
  <a href="https://github.com/ErfanShokrollahzadeh">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanShokrollahzadeh&layout=compact&theme=material-palenight&langs_count=12" />
@@ -274,25 +294,3 @@ abilities, I can help you unlock your full potential and achieve success in
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=ErfanShokrollahzadeh&label=Profile%20Views&color=9&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
-#### 👋 Ways of communication with me :
-<p align="center">
-<a href="https://twitter.com/erfan_shokr" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://www.linkedin.com/in/erfan-shokrollahzadeh-babb95216/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>
-  <a href="https://t.me/ERFANsorena80" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
- </a>
- <a href="mailto:erfan.shokr300@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Mail-yellowgreen?style=for-the-badge&logo=gmail&logoColor=white" />
- </a>
-  <a href="https://discordapp.com/users/⚡Erfan⚡#2239" target="_blank">
-  <img src="https://img.shields.io/badge/-DISCORD-blueviolet?style=for-the-badge&logo=discord&logoColor=white" />
- </a>
-  <a href="https://www.instagram.com/in/erfan-shokrollahzadeh-babb95216/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
- </a>
-  <br />
