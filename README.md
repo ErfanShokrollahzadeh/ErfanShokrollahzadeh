@@ -283,7 +283,7 @@ abilities, I can help you unlock your full potential and achieve success in
   
  </a>
   <a>
-  <img height="100%" wdith="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanShokrollahzadeh&theme=material-palenight" alt="hootanht's Github Steak" />
+  <img height="100%" wdith="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanShokrollahzadeh&theme=material-palenight" alt="ErfanShokrollahzadeh's Github Steak" />
   </a>
 </p>
 
