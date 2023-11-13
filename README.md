@@ -279,10 +279,10 @@ abilities, I can help you unlock your full potential and achieve success in
 <p align="center">
  <a href="https://github.com/ErfanShokrollahzadeh">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanShokrollahzadeh&layout=compact&theme=material-palenight&langs_count=12" />
-<!--<img height="200em" src="https://github-readme-stats.vercel.app/api?username=ErfanShokrollahzadeh&show_icons=true&include_all_commits=true&theme=material-palenight" />-->
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ErfanShokrollahzadeh&show_icons=true&include_all_commits=true&theme=material-palenight" />
  </a>
   <a>
-  <img height="100%" wdith="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanShokrollahzadeh&theme=material-palenight" alt="ErfanShokrollahzadeh's Github Steak" />
+<!--   <img height="100%" wdith="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanShokrollahzadeh&theme=material-palenight" alt="ErfanShokrollahzadeh's Github Steak" /> -->
   </a>
 </p>
 
