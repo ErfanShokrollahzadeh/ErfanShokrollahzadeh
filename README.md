@@ -278,12 +278,12 @@ abilities, I can help you unlock your full potential and achieve success in
 ## 📊 GitHub Analytics :
 <p align="center">
  <a href="https://github.com/ErfanShokrollahzadeh">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanShokrollahzadeh&layout=compact&theme=material-palenight&langs_count=12" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ErfanShokrollahzadeh&show_icons=true&include_all_commits=true&theme=material-palenight" />
- </a>
-  <a>
-<!--   <img height="100%" wdith="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanShokrollahzadeh&theme=material-palenight" alt="ErfanShokrollahzadeh's Github Steak" /> -->
-  </a>
+   
+ ![](https://github-readme-stats.vercel.app/api?username=ErfanShokrollahzadeh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+   
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=ErfanShokrollahzadeh&theme=dark&hide_border=false)<br/>
+   
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanShokrollahzadeh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </p>
 
 ## 🏆 GitHub Trophies :
@@ -292,7 +292,6 @@ abilities, I can help you unlock your full potential and achieve success in
 
 ### 🧑‍💻 Stackoverflow Status :
 <a href="https://stackoverflow.com/users/18267139/erfan-shokrollahzadeh"><img src="https://stackoverflow.com/users/flair/18267139.png?theme=dark" width="208" height="58" alt="profile for Erfan Shokrollahzadeh at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Erfan Shokrollahzadeh at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-</p>
 
 [![](https://visitcount.itsvg.in/api?id=ErfanShokrollahzadeh&label=Profile%20Views&color=9&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
