@@ -276,15 +276,9 @@ abilities, I can help you unlock your full potential and achieve success in
 <br><br>
 
 ## 📊 GitHub Analytics :
-<p align="center">
- <a href="https://github.com/ErfanShokrollahzadeh">
-   
- ![](https://github-readme-stats.vercel.app/api?username=ErfanShokrollahzadeh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-   
- ![](https://github-readme-streak-stats.herokuapp.com/?user=ErfanShokrollahzadeh&theme=dark&hide_border=false)<br/>
-   
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanShokrollahzadeh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</p>
+![](https://github-readme-stats.vercel.app/api?username=ErfanShokrollahzadeh&theme=dark&hide_border=false&include_all_commits=true&count_private=true) <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ErfanShokrollahzadeh&theme=dark&hide_border=false) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanShokrollahzadeh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies :
 ![](https://github-profile-trophy.vercel.app/?username=ErfanShokrollahzadeh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
