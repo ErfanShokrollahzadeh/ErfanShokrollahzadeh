@@ -8,7 +8,7 @@ your goals, then I'm your guy. With my technical expertise and coaching
 abilities, I can help you unlock your full potential and achieve success in
 <br><br>
 
-<a href="https://erfanshokrollahzadeh.github.io/Resume/index-en.html">🔗 My Resume Site </a>
+<a href="https://erfanshokrollahzadeh.github.io/Resume/demo.html">🔗 My Resume Site </a>
 <br><br>
 
 <div align="center">
